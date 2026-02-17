@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👨🏽‍💻Juan Talyson M.
+  # *👨🏽‍💻Juan Talyson M.*
 
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&height=80&lines=Hello%2C+World!;Juan+Talyson+here.;Data+Scientist+in+Progress;Transforming+Data+into+Strategic+Decisions;SQL+%7C+Python+%7C+BI+%7C+Machine+Learning" />
