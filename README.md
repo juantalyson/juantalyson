@@ -14,8 +14,8 @@
 
 ## 🚀 Objective
 
-Computer Science student focused on **entering the data market and creating real opportunities through strategic projects and applied analytics**.  
-I transform raw data into intelligent decisions using analytical thinking, modeling, and business vision.
+Computer Science student focused on **breaking into the data field and creating real opportunities through strategic projects and applied analytics.**
+I transform raw data into informed decisions using analytical thinking, modeling, and business insight.
 
 ---
 
