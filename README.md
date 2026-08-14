@@ -46,8 +46,7 @@ I transform raw data into informed decisions using analytical thinking, modeling
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![ETL](https://img.shields.io/badge/ETL-005571?style=for-the-badge)
-![SSIS](https://img.shields.io/badge/SSIS-68217A?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
 
 </div>
 
