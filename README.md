@@ -29,10 +29,6 @@ I transform raw data into informed decisions using analytical thinking, modeling
 - 🔍 Analytical mindset + execution-driven approach  
 ---
 
-## 📈 Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juan%20Talyson%20&theme=tokyonight&border_radius=5&short_numbers=true&card_width=500)](https://git.io/streak-stats)
-
 ## 🛠️ Tech Stack
 
 <div align="">
