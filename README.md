@@ -14,8 +14,8 @@
 
 ## 🚀 Objective
 
-Computer Science student focused on **breaking into the data field and creating real opportunities through strategic projects and applied analytics.**
-I transform raw data into informed decisions using analytical thinking, modeling, and business insight.
+Analista de Dados com experiência prática em Power BI e SQL na construção de dashboards e relatórios gerenciais, extração, tratamento e validação de dados e automação de rotinas. Utilizo Python e APIs REST para ingestão e integração de dados em projetos próprios, atuando com autonomia no desenvolvimento de soluções e na resolução de demandas relacionadas a dados. Cursando Ciência da Computação, com foco em Análise de Dados e Business Intelligence.
+
 
 ---
 
